@@ -1,2 +1,2 @@
-# This repository is for the website **polars.is-a.dev**.
+# This repository is for the website **polars.is-a.dev**
 
